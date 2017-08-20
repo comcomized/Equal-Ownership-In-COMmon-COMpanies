@@ -1,2 +1,4 @@
-# Home
+# Postnational Solutions Home
+For reducing development cost, while turning developers owners over their ip, we are building qt on opensuse.org, publishing under AGPL and/or Humanitarian Agpl License http://namzezam.wikidot.com/humanitarian-agpl-license and working under dcomcomized (changeable d) module, such that the equal part is paid as divided while the rest additionally. https://comcomized.com/term-and-conditions/
+
 For reducing development cost, while turning developer to become owners over their ip, we are  building [qt](https://www.qt.io/) [here](https://build.opensuse.org/), publishing under AGPL and/or [Humanitarian Agpl](http://namzezam.wikidot.com/humanitarian-agpl-license) License and working under [dcomcomized (changeable d) module](https://comcomized.com/term-and-conditions/), such that the equal part is paid as divided and the additionally unequal contribution is paid as a donation/gift/bounce/salary/ to a free-lancer/employ.
